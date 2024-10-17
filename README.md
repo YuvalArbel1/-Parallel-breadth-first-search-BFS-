@@ -64,4 +64,4 @@ $ make run
 ```
 ## Author
 
-* [@Tal Mizrahi](https://github.com/YuvalArbel1)
+* [@Yuval Arbel](https://github.com/YuvalArbel1)
