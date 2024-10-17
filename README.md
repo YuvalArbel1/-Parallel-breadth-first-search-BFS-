@@ -52,8 +52,7 @@ To install and run the program you use [Git](https://git-scm.com). From your com
 
 ```bash
 # Clone this repository.
-$ git clone https://github.com/TalMizrahii/parallel-BFS-search
-
+$ git clone https://github.com/YuvalArbel1/-Parallel-breadth-first-search-BFS-.git
 # Navigate to the repository directory:
 $ cd parallel-BFS-search
 
